@@ -10,5 +10,3 @@ Develop a Python-based solution that automates the extraction of resume attachme
 4. Update the SQL Server credentials in resume.py
 5. Make a new folder docs where all these files are placed and update the folder path on main.py
 6. Run the main.py file
-
-Resume.pbix is a pwerBi file where you can see all the results. Just connect that file with your SQL server and refresh it.
